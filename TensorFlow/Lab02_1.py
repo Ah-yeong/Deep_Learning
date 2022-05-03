@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-
+# data
 x_data = [1,2,3,4,5]
 y_data = [2,4,6,8,10]
 
